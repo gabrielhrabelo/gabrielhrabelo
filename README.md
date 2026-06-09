@@ -8,4 +8,3 @@ Here you'll find my life in programming
 - 🫡 I'm curious about everything related to technology and beyond
 - ✍️ I'm currently following the backend learning path on boot.dev
 
-Oh, and I use arch btw
